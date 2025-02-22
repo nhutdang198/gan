@@ -1,0 +1,9 @@
+tensorflow==2.10.0
+tensorflow-datasets==4.9.3
+tensorboard==2.10.1
+tqdm==4.67.1
+colorama==0.4.6
+pathlib==1.0.1
+seaborn==0.13.2
+matplotlib==3.8.0
+numpy==1.26.4
