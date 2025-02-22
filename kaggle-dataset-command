@@ -1,0 +1,2 @@
+#!/bin/bash
+kaggle datasets download spandan2/cats-faces-64x64-for-generative-models
